@@ -1,0 +1,16 @@
+.footer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  height: 70px;
+  left: 0;
+  width: 100%;
+}
+
+.footer a {
+  color: inherit;
+}

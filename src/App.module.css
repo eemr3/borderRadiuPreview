@@ -6,6 +6,11 @@
   justify-content: center;
 }
 
+.App h1,
+h2 {
+  font-size: 72px;
+}
+
 .content {
   max-width: 50%;
 }
